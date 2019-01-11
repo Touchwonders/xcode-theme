@@ -1,0 +1,1 @@
+cp -if ./Touchwonders.xccolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/Touchwonders.xccolortheme
